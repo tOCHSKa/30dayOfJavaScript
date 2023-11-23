@@ -8,7 +8,7 @@
   </a>
 
 <sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+<a href="https://www.linkedin.com/in/asabeneh/" target="_blank"></a><br>
 <small> January, 2020</small>
 </sub>
 
